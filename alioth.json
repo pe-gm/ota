@@ -1,0 +1,19 @@
+{
+	"error": false,
+	"version": "thirteen",
+	"filename": "",
+	"datetime": ,
+	"size": ,
+	"url": "",
+	"filehash": "",
+	"id": "",
+	"maintainers": [{
+		"main_maintainer": false,
+		"github_username": "GustavoMends",
+		"name": "Gustavo Mendes"
+	}],
+	"donate_url": "https://www.buymeacoffee.com/gustavomends",
+	"website_url": "https://sourceforge.net/projects/gm-builds/files/PixelExperience",
+	"news_url": "https://t.me/gustavomendschat",
+	"forum_url": "https://t.me/gustavomendschat"
+}
