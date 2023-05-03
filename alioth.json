@@ -1,12 +1,12 @@
 {
 	"error": false,
 	"version": "thirteen",
-	"filename": "",
-	"datetime": ,
-	"size": ,
-	"url": "",
-	"filehash": "",
-	"id": "",
+	"filename": "PixelExperience_alioth-13.0-20230503-2046.zip",
+	"datetime": "1683146760",
+	"size": "1616408262",
+	"url": "https://sourceforge.net/projects/gm-builds/files/PixelExperience/alioth/PixelExperience_alioth-13.0-20230503-2046.zip/download",
+	"filehash": "52e1ed36ba6c307d1d762c4257d56774",
+	"id": "e41d8b1326a9e1dd236aa07f45bb876a75e5a235e25456280911e71cad751be4",
 	"maintainers": [{
 		"main_maintainer": false,
 		"github_username": "GustavoMends",
